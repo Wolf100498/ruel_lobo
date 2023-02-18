@@ -307,7 +307,9 @@ preloader
   font-weight: 500;
 }
 .project-left,
-.project-right{flex: 1;}
+.project-right{
+  flex: 1;
+  max-height: 400px;}
 .project-card{
   border-radius: 1rem;
   width: 80%;

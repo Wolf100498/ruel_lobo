@@ -61,6 +61,13 @@ const myMiniProj = [
     'url': 'https://wolf100498.github.io/webdev_portfolio/',
     'desc': "Web developer static website that is build using HTML, CSS, and Bootstrap only. I build this website when Im still new to web development. This project exercises my skills in web design and because of this project I fell in love with CSS and frontend development."
   },
+  {
+    'name': 'My Favorite Animes',
+    'tools': 'HTML,CSS,Bootstrap,JavaScript',
+    'img': 'assets/images/projects/my_fav_animes_thumbnail.jpg',
+    'url': 'https://wolf100498.github.io/my_favorite_animes/',
+    'desc': "I love watching anime since I am in grade school, now that I build websites, I make sure to have a website that contains all my favorite animes to watch. This website is built using HTML, CSS, Bootstrap and Javascript. I also tried to make this website responsive. Over all I love this website because im combining my passion for web development and love for animes."
+  },
 ];
 
 
