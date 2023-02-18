@@ -54,6 +54,13 @@ const myMiniProj = [
     'url': 'https://wolf100498.github.io/pixel_conversion/',
     'desc': "This project helps me in css a lot. As a person who loves CSS, conversion from pixel to rem or em or ch etc. is always what I do to create an accurate size designs. Specially when I create responsive web designs. I create this simple pixel conversion with HTML, SCSS, Bootstrap and JavaScript, I love exploring new things specially things that related to frontend, thats why I try SCSS."
   },
+  {
+    'name': 'Web Developer Portfolio',
+    'tools': 'HTML,CSS,Bootstrap',
+    'img': 'assets/images/projects/webdev_thumbnail.jpg',
+    'url': 'https://wolf100498.github.io/webdev_portfolio/',
+    'desc': "Web developer static website that is build using HTML, CSS, and Bootstrap only. I build this website when Im still new to web development. This project exercises my skills in web design and because of this project I fell in love with CSS and frontend development."
+  },
 ];
 
 
