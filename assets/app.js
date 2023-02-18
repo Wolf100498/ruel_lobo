@@ -35,10 +35,24 @@ const miniProjects = document.querySelector('#mini-projects');
 const myMiniProj = [
   {
     'name': 'A.R.K Motorcycle Rentals',
-    'tools': 'HTML,CSS,JavaScript',
+    'tools': 'HTML,CSS,Bootstrap,JavaScript',
     'img': 'assets/images/projects/ark.jpg',
     'url': 'https://wolf100498.github.io/ark_motorcycle_rentals/index.html',
     'desc': "Ark Motorcycle Rentals is my first team project in Kodego Bootcamp. This ecommerce frontend website uses HTML, CSS, and Bootstrap to achieve a better user experience and responsive design. We also use Lucidchart for planning, and Github for version control to boost our productivity. This project also gives me more experience to lead a team to build a frontend ecommerce website."
+  },
+  {
+    'name': 'Rock Paper Scissors',
+    'tools': 'HTML,CSS,JavaScript',
+    'img': 'assets/images/projects/rps.jpg',
+    'url': 'https://wolf100498.github.io/rock_paper_scissors',
+    'desc': "One fun mini project that I made is this rock paper scissors, this project enhances my DOM Manipulation skill. In this game Player will play against AI in best of 10 game, player will just click his or her throw and the result will be given in screen. Player also may check the game history, which contains the number of set, the players throw in that set and the result who wins that set. If player doesnt want to continue the game, the reset button is available, which will set all things in the game back to its default state. This project really makes me proud of my DOM Manipulation and JavaScript skills."
+  },
+  {
+    'name': 'Pixel_Conversion',
+    'tools': 'HTML,SCSS,JavaScript',
+    'img': 'assets/images/projects/pixel_conversion1.jpg',
+    'url': 'https://wolf100498.github.io/pixel_conversion/',
+    'desc': "This project helps me in css a lot. As a person who loves CSS, conversion from pixel to rem or em or ch etc. is always what I do to create an accurate size designs. Specially when I create responsive web designs. I create this simple pixel conversion with HTML, SCSS, Bootstrap and JavaScript, I love exploring new things specially things that related to frontend, thats why I try SCSS."
   },
 ];
 
